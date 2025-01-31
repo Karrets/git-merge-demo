@@ -4,5 +4,3 @@
 # Howdy
 
 Hello everyone in the SLED Team.
-Hello to you too.
-
