@@ -1,10 +1,7 @@
 # My name is Cameron Peterson
 
 
-
 Hello everyone in the SLED Team.
+** hello! **
 
 # Howdy
-=======
-Hello everyone in the SLED Team.
-
